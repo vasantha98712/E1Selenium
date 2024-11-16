@@ -9,5 +9,6 @@ public class Practice2
 	{
 		System.out.println("This is 3nd commit");
 		System.out.println("commit done");
+		System.out.println("hi");
 	}
 }
