@@ -8,6 +8,7 @@ public class Practice1
 		public void sample()
 		{
 			System.out.println("This is 2nd commit");
+			System.out.println("commit done");
 		}
 
 }
